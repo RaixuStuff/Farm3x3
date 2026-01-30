@@ -1,5 +1,7 @@
-scoreboard objectives add farm3x3_wheat_Mined minecraft.mined:minecraft.wheat
-scoreboard objectives add farm3x3_potatoes_Mined minecraft.mined:minecraft.potatoes
-scoreboard objectives add farm3x3_carrots_Mined minecraft.mined:minecraft.carrots
-scoreboard objectives add farm3x3_beetroots_Mined minecraft.mined:minecraft.beetroots
-scoreboard objectives add farm3x3_nether_wart_Mined minecraft.mined:minecraft.nether_wart
+scoreboard objectives add farm3x3-raycast dummy
+
+scoreboard objectives add farm3x3-wheat-mined minecraft.mined:minecraft.wheat
+scoreboard objectives add farm3x3-potatoes-mined minecraft.mined:minecraft.potatoes
+scoreboard objectives add farm3x3-carrots-mined minecraft.mined:minecraft.carrots
+scoreboard objectives add farm3x3-beetroots-mined minecraft.mined:minecraft.beetroots
+scoreboard objectives add farm3x3-nether_wart-mined minecraft.mined:minecraft.nether_wart
