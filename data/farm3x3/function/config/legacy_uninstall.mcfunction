@@ -11,6 +11,11 @@ scoreboard objectives remove farm3x3_carrots_Mined
 scoreboard objectives remove farm3x3_beetroots_Mined
 scoreboard objectives remove farm3x3_nether_wart_Mined
 
+scoreboard objectives remove farm3x3-fd_cabbages_Mined
+scoreboard objectives remove farm3x3-fd_onions_Mined
+scoreboard objectives remove farm3x3-fd_tomatoes_Mined
+scoreboard objectives remove farm3x3-fd_rice_panicles_Mined
+
 # Run chat commands
 execute as @s run function farm3x3:config/clear_chat
 
