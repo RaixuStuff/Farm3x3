@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        "farm3x3:harvest/offhand/check_if_crop_can_harvest"
+    ]
+}
