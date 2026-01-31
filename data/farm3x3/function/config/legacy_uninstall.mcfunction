@@ -1,4 +1,4 @@
-# For removing scoreboard entries from Farm3x3 versions below 2.0.1
+# For removing scoreboard entries from Farm3x3 versions below 2.3.0
 scoreboard objectives remove farm3_wheatmined
 scoreboard objectives remove farm3_potatoesmined
 scoreboard objectives remove farm3_carrotsmined
