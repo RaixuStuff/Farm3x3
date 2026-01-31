@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        "#crops",
         "minecraft:nether_wart"
     ]
 }
